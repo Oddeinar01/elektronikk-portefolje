@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "4c61e35b-9595-4a43-aa9e-30c765c03737")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 22.86 21.59)
+		(size 53.34 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.762)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "74fd8946-2d8d-4a48-9902-2c4a56a868f4")
+		(property "Sheetname" "Amplifier"
+			(at 22.86 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 22.86 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Høyttaler"
+				(path "/4c61e35b-9595-4a43-aa9e-30c765c03737"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

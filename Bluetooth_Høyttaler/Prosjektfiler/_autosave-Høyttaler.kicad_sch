@@ -1,0 +1,297 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4c61e35b-9595-4a43-aa9e-30c765c03737")
+	(paper "A4")
+	(title_block
+		(title "Bluetooth Høyttaler")
+		(date "2026-09-24")
+		(rev "0")
+		(company "NTNU Gjøvik")
+		(comment 1 "Design by: Odd Einar Ødegårdstuen")
+	)
+	(lib_symbols)
+	(sheet
+		(at 88.9 21.59)
+		(size 53.34 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.762)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3ef2b7f1-55c1-4966-b806-e8b8d490fdf5")
+		(property "Sheetname" "USB-C PD"
+			(at 88.9 19.9386 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USBCPD.kicad_sch"
+			(at 88.9 69.4694 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Høyttaler"
+				(path "/4c61e35b-9595-4a43-aa9e-30c765c03737"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 88.138 86.868)
+		(size 53.34 46.736)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.762)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "79963399-d80f-40c0-bf03-a70453d7e63c")
+		(property "Sheetname" "Stativ"
+			(at 88.138 85.2166 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Stender.kicad_sch"
+			(at 88.138 134.4934 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Høyttaler"
+				(path "/4c61e35b-9595-4a43-aa9e-30c765c03737"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 87.122)
+		(size 53.34 46.482)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.762)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8052e9c8-ad71-4a09-8cae-eef65b798e63")
+		(property "Sheetname" "Barrel Backup"
+			(at 21.59 85.4706 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Barrel Backup.kicad_sch"
+			(at 21.59 134.4934 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Høyttaler"
+				(path "/4c61e35b-9595-4a43-aa9e-30c765c03737"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 21.59)
+		(size 53.34 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.762)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "852393ed-ba0b-4c31-aa02-b96fc7450886")
+		(property "Sheetname" "BT Module"
+			(at 152.4 19.9386 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BTMOD.kicad_sch"
+			(at 152.4 69.4694 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Høyttaler"
+				(path "/4c61e35b-9595-4a43-aa9e-30c765c03737"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 210.82 21.59)
+		(size 50.8 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.762)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "94528aed-6d6e-4e38-b65c-b08ac62d6058")
+		(property "Sheetname" "3V3BUCK"
+			(at 210.82 19.9386 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "3V3BUCK.kicad_sch"
+			(at 210.82 69.4694 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Høyttaler"
+				(path "/4c61e35b-9595-4a43-aa9e-30c765c03737"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 21.59)
+		(size 53.34 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.762)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c0b32506-837f-4919-a2c5-ac2322a6a35d")
+		(property "Sheetname" "Amplifier"
+			(at 21.59 19.9386 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Amplifier.kicad_sch"
+			(at 21.59 69.4694 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Høyttaler"
+				(path "/4c61e35b-9595-4a43-aa9e-30c765c03737"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

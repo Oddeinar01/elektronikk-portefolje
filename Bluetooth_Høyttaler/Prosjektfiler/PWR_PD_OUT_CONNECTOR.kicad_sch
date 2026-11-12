@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "430ab078-59e7-4a90-b855-dc3246672294")
+	(paper "A4")
+	(title_block
+		(title "Bluetooth Høyttaler")
+		(date "2026-09-24")
+		(rev "0")
+		(company "NTNU Gjøvik")
+		(comment 1 "Design by: Odd Einar Ødegårdstuen")
+	)
+	(lib_symbols)
+)
