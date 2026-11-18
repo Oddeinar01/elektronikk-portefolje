@@ -1,0 +1,9 @@
+Manufacturer=Renesas Electronics
+PartNumber=RJK0301DPB-02#J0
+PartCategory=Transistor
+PackageCategory=Other
+PinCount=5
+Version=2.1
+Released=2019-05-19 10:26:29
+Downloaded=2026-01-29 10:37:07
+3D=N

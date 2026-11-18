@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RJK0301DPB_02#J0'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Renesas Electronics", "RJK0301DPB-02#J0" (!) = "", "LFPAK", "Other", "968-RJK0301DPB-02#J0", "https://www.mouser.co.uk/ProductDetail/Renesas-Electronics/RJK0301DPB-02J0?qs=ZVKuL1Ob8AtK4uMwhdagCg%3D%3D", "RJK0301DPB-02#J0", "https://www.arrow.com/en/products/rjk0301dpb-02j0/renesas-electronics", "The RJK0301DPB is a N Channel Power MOSFET.", "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-37/727488.pdf"
+END_PART
+
+END.

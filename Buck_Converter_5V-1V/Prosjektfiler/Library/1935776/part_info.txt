@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1935776
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=4.6
+Released=2021-05-12 15:29:09
+Downloaded=2026-02-12 09:23:34
+3D=Y

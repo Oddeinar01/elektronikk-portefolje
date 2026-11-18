@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EEU_EE2W330'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "EEU-EE2W330" (!) = "", "CAPPRD750W85D1600H2700", "Capacitor, Polarized Radial Diameter", "667-EEU-EE2W330", "https://www.mouser.co.uk/ProductDetail/Panasonic/EEU-EE2W330?qs=bZLtalHQkT009s%2Fa1sZ%2FZA%3D%3D", "EEU-EE2W330", "https://www.arrow.com/en/products/eeu-ee2w330/panasonic?region=europe", "Aluminium Electrolytic Capacitor, Radial Lead,33uF,450V", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1026.pdf", "27 mm"
+END_PART
+
+END.

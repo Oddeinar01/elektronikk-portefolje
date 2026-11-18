@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "4b0d622d-8b40-47ef-b552-45e59fe578b5")
+	(paper "A4")
+	(lib_symbols)
+	(text "R6\n"
+		(exclude_from_sim no)
+		(at 106.934 37.592 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "0b587a65-2e0a-4e8b-b3b2-79c14113adc1")
+	)
+	(text "L1\n"
+		(exclude_from_sim no)
+		(at 157.988 37.084 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "1479e8cc-b25e-4793-9686-d4b937db4152")
+	)
+	(text "R2"
+		(exclude_from_sim no)
+		(at 56.388 37.084 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "16de0b66-0a9c-4a5b-bf5b-dfc589225f02")
+	)
+	(text "C5\n"
+		(exclude_from_sim no)
+		(at 133.096 87.376 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "1f42e9e3-94f4-44f8-9d19-c69ff567a1dc")
+	)
+	(text "Motstander + Spole"
+		(exclude_from_sim no)
+		(at 33.02 28.956 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "2d7110e5-c5ba-40b4-bb22-10ed97a8f02c")
+	)
+	(text "R1\n"
+		(exclude_from_sim no)
+		(at 31.496 37.338 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "35e50436-5459-4859-a42a-869767b61347")
+	)
+	(text "RJK0301DPB"
+		(exclude_from_sim no)
+		(at 31.75 138.938 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "371e3769-64d1-4da2-a977-5fb39747f113")
+	)
+	(text "R_SENSE\n"
+		(exclude_from_sim no)
+		(at 132.588 37.338 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "59568181-c304-42e9-b61c-2f7bd78049e7")
+	)
+	(text "C_out / C_in"
+		(exclude_from_sim no)
+		(at 33.02 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "59fda4c8-a3a4-4ab3-93a3-6f4ec204e92f")
+	)
+	(text "C3"
+		(exclude_from_sim no)
+		(at 83.312 87.884 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "6cb89432-3d44-43e0-960a-ded3a01b3ca9")
+	)
+	(text "C2\n"
+		(exclude_from_sim no)
+		(at 56.134 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "93dbb0d1-2ced-4a0d-b885-e2f74b5cead2")
+	)
+	(text "C4"
+		(exclude_from_sim no)
+		(at 107.442 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "a73210ae-cd22-4632-8020-66860d14b329")
+	)
+	(text "Kondensatorer"
+		(exclude_from_sim no)
+		(at 28.448 73.914 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "a752d843-aba3-46f3-bcbc-0bb147103fec")
+	)
+	(text "Mosfet + FPGA"
+		(exclude_from_sim no)
+		(at 29.464 125.73 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "dfe6e900-7dc0-4725-85e6-d4affafd83a7")
+	)
+	(text "R3"
+		(exclude_from_sim no)
+		(at 81.534 37.084 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "e10e4989-50d8-4010-80e8-254126d955af")
+	)
+	(text "C6"
+		(exclude_from_sim no)
+		(at 159.004 87.376 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "e39cc678-38bb-43a4-b58f-4de6b193e7da")
+	)
+	(text "STD35P6LLF6"
+		(exclude_from_sim no)
+		(at 57.15 138.684 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "f85c8a34-3b84-4ba9-9059-4b3356a8236f")
+	)
+	(text "LT8711"
+		(exclude_from_sim no)
+		(at 120.904 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "fc25c2d0-2ca8-445c-9648-69c49598f89d")
+	)
+)

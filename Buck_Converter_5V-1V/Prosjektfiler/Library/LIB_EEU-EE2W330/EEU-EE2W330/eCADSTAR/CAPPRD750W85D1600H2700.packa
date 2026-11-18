@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EEU-EE2W330"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-08-15-11:49:12)
+    (mountForm default
+        (footprintRef "CAPPRD750W85D1600H2700")
+        (spec "System")
+    )
+)

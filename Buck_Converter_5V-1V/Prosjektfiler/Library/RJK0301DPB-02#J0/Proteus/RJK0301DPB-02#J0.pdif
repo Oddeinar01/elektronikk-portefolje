@@ -1,0 +1,110 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "RJK0301DPB-02#J0"
+   (description "The RJK0301DPB is a N Channel Power MOSFET.")
+   (family "TRX")
+   (package "LFPAK")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-37/727488.pdf")
+   (attribute "Manufacturer_Name" "Renesas Electronics")
+   (attribute "Manufacturer_Part_Number" "RJK0301DPB-02#J0")
+   (attribute "Mouser Part Number" "968-RJK0301DPB-02#J0")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Renesas-Electronics/RJK0301DPB-02J0?qs=ZVKuL1Ob8AtK4uMwhdagCg%3D%3D")
+   (attribute "Arrow Part Number" "RJK0301DPB-02#J0")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/rjk0301dpb-02j0/renesas-electronics")
+   (gate
+    (symbol "RJK0301DPB-02#J0")
+    (pin "S_1" 1 PS)
+    (pin "S_2" 2 PS)
+    (pin "S_3" 3 PS)
+    (pin "G" 4 PS)
+    (pin "D" 5 PS)
+   )
+  )
+  (symbol "RJK0301DPB-02#J0"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "LFPAK"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed true)
+      (pt -2.45 0)
+      (pt 2.45 0)
+      (pt 2.45 -3.95)
+      (pt -2.45 -3.95)
+      (pt -2.45 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt -2.45 0)
+      (pt -2.45 -3.95)
+      (pt 2.45 -3.95)
+      (pt 2.45 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (circle
+      (pt -1.962 -6.271) (pt -1.83 -6.271)
+     )
+    )
+   )
+   (leg 1 (pt -1.905 -5) (padstack 0))
+   (leg 2 (pt -0.635 -5) (padstack 0))
+   (leg 3 (pt 0.635 -5) (padstack 0))
+   (leg 4 (pt 1.905 -5) (padstack 0))
+   (leg 5 (pt 0 -1.24) (padstack 5))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.78 1.52 0 0 90))
+   )
+   (padstack 5
+    (plated false)
+    (pad (layer TCOP) (rectf 4.57 5.04 0 0 90))
+   )
+  )
+ )
+)

@@ -1,0 +1,17 @@
+.RJK0301DPB-02_J0 :1 ;The RJK0301DPB is a N Channel Power MOSFET.
+LFPAK
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D"
+*MXP 5
+*DFN RJK0301DPB-02_J0
+~!Manufacturer_Name (Renesas Electronics)
+~!Manufacturer_Part_Number (RJK0301DPB-02#J0)
+~!Mouser Part Number (968-RJK0301DPB-02#J0)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Renesas-Electronics/RJK0301DPB-02J0?qs=ZVKuL1Ob8AtK4uMwhdagCg%3D%3D)
+~!Arrow Part Number (RJK0301DPB-02#J0)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/rjk0301dpb-02j0/renesas-electronics)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/DKDS-37/727488.pdf)
+~!Height (-)
+RJK0301DPB-02_J0
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

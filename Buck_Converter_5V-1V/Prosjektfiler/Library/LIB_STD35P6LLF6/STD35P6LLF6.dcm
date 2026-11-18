@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STD35P6LLF6
+D P-channel 60 V, 0.025  typ., 35 A STripFET F6 PowerMOSFETinaDPAKpackage
+K
+F https://www.st.com/resource/en/datasheet/std35p6llf6.pdf
+$ENDCMP
+#
+#End Doc Library

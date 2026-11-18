@@ -1,0 +1,18 @@
+.LT8711EFE_TRPBF :1 ;Micropower Synchronous Multitopology Controller with 42V Input Capability
+SOP65P640X120-21N
+*STM IC
+*NGS
+*PLB 1="EN/FBIN" 2="FB" 3="VC" 4="SS" 5="OPMODE" 6="ISP" 7="ISN" 8="INTVEE" 9="BIAS" 10="TG" 11="BG" 12="NC_1" 13="INTVCC" 14="VIN" 15="EXTVCC" 16="CSN" 17="CSP" 18="NC_2" 19="SYNC" 20="RT" 21="GND"
+*MXP 21
+*DFN LT8711EFE_TRPBF
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LT8711EFE#TRPBF)
+~!Mouser Part Number (584-LT8711EFETRPBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT8711EFETRPBF?qs=YCa%2FAAYMW03ypo7nngD4zA%3D%3D)
+~!Arrow Part Number (LT8711EFE#TRPBF)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/lt8711efetrpbf/analog-devices?region=nac)
+~!Link Datasheet (https://www.analog.com/LT8711/datasheet)
+~!Height (1.2mm)
+~!3D_Model (LT8711EFE#TRPBF)
+LT8711EFE_TRPBF
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 

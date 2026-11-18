@@ -1,0 +1,18 @@
+.EEU-EE2W330 :1 ;Aluminium Electrolytic Capacitor, Radial Lead,33uF,450V
+CAPPRD750W85D1600H2700
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN EEU-EE2W330
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (EEU-EE2W330)
+~!Mouser Part Number (667-EEU-EE2W330)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/EEU-EE2W330?qs=bZLtalHQkT009s%2Fa1sZ%2FZA%3D%3D)
+~!Arrow Part Number (EEU-EE2W330)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/eeu-ee2w330/panasonic?region=europe)
+~!Link Datasheet (http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1026.pdf)
+~!Height (27mm)
+~!3D_Model (EEU-EE2W330)
+EEU-EE2W330
+1.1!U 2.1!U 

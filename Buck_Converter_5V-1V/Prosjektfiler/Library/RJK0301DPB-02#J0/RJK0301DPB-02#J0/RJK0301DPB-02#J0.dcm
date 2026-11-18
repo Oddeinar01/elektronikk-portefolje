@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RJK0301DPB-02#J0
+D The RJK0301DPB is a N Channel Power MOSFET.
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-37/727488.pdf
+$ENDCMP
+#
+#End Doc Library

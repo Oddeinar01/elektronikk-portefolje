@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=LT8711EFE#TRPBF
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=21
+Version=2.1
+Released=2025-01-31 10:17:35
+Downloaded=2026-02-08 15:11:55
+3D=Y

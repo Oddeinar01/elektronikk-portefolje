@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LT8711EFE#TRPBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "LT8711EFE#TRPBF" (!) = "", "SOP65P640X120-21N", "Small Outline Packages", "584-LT8711EFETRPBF", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT8711EFETRPBF?qs=YCa%2FAAYMW03ypo7nngD4zA%3D%3D", "LT8711EFE#TRPBF", "https://www.arrow.com/en/products/lt8711efetrpbf/analog-devices?region=nac", "Micropower Synchronous Multitopology Controller with 42V Input Capability", "https://www.analog.com/LT8711/datasheet", "1.2 mm"
+END_PART
+
+END.
