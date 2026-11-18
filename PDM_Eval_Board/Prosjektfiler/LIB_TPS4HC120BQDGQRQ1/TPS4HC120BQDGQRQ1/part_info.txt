@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS4HC120BQDGQRQ1
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=29
+Version=1.1
+Released=2026-09-08 09:16:43
+Downloaded=2026-10-02 13:30:50
+3D=Y

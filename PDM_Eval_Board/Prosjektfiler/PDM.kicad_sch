@@ -1,0 +1,110 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "b406003e-9d53-4e39-b958-2ff31470da0f")
+	(paper "A5")
+	(title_block
+		(title "PDM Evaluation Board")
+		(comment 1 "Design by Odd Einar Ødegårdstuen")
+	)
+	(lib_symbols)
+	(sheet
+		(at 78.74 30.48)
+		(size 36.83 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bee343ca-9cdb-4310-807c-ee1e7dde5463")
+		(property "Sheetname" "CONNECTOR"
+			(at 78.74 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CONNECTOR.kicad_sch"
+			(at 78.74 60.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PDM"
+				(path "/b406003e-9d53-4e39-b958-2ff31470da0f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 30.48)
+		(size 36.83 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fe086de4-0f1b-4cb3-9d22-cb902c3dde90")
+		(property "Sheetname" "PDM"
+			(at 24.13 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PDM1.kicad_sch"
+			(at 24.13 60.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PDM"
+				(path "/b406003e-9d53-4e39-b958-2ff31470da0f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

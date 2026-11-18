@@ -1,0 +1,27 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","22nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",113.462500,-56.950000,0.000000,top
+"C2","22nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",118.300000,-57.000000,180.000000,top
+"C3","22nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",118.300000,-67.500000,0.000000,top
+"C4","22nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",113.500000,-67.500000,180.000000,top
+"C5","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",122.000000,-62.962500,-90.000000,top
+"C6","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",119.800000,-62.962500,-90.000000,top
+"C7","4.7uF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",117.400000,-62.962500,-90.000000,top
+"C8","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",101.810000,-71.620000,0.000000,top
+"IC1","TPS4HC120BQDGQRQ1","SOP50P490X110-29N",112.212000,-62.200000,0.000000,top
+"J1","Phoenix Connector","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",132.100000,-54.250000,180.000000,top
+"J2","Phoenix Connector","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",126.900000,-69.800000,0.000000,top
+"J3","Conn_01x06_Socket","PinSocket_1x06_P2.54mm_Vertical",97.750000,-47.680000,0.000000,top
+"J4","Conn_01x06_Socket","PinSocket_1x06_P2.54mm_Vertical",97.750000,-64.000000,0.000000,top
+"J5","Conn_01x04_Socket","PinSocket_1x04_P2.54mm_Vertical",111.960000,-50.950000,90.000000,top
+"J6","Conn_01x04_Socket","PinSocket_1x04_P2.54mm_Vertical",111.960000,-73.400000,90.000000,top
+"R1","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",101.750000,-47.650000,0.000000,top
+"R2","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",101.750000,-50.200000,0.000000,top
+"R3","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",101.750000,-52.750000,0.000000,top
+"R4","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",101.750000,-55.300000,0.000000,top
+"R5","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",101.750000,-57.850000,0.000000,top
+"R6","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",101.750000,-60.400000,0.000000,top
+"R7","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",101.750000,-64.000000,0.000000,top
+"R8","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",101.750000,-66.550000,180.000000,top
+"R9","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",101.750000,-69.100000,180.000000,top
+"R10","10k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",101.800000,-74.130000,0.000000,top
+"R11","1k","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",101.800000,-76.710000,0.000000,top

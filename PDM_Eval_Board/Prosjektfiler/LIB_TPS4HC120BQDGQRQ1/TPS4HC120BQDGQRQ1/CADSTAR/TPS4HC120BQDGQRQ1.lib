@@ -1,0 +1,18 @@
+.TPS4HC120BQDGQRQ1 :1 ;Power Switch ICs - Power Distribution Automotive, four-channel 120mohm smart high-side switch with low power mode
+SOP50P490X110-29N
+*STM IC
+*NGS
+*PLB 1="NC_1" 2="EN1" 3="EN2" 4="EN3" 5="EN4" 6="SEL1" 7="SEL0" 8="DIAG_EN" 9="'FLT'" 10="LPM" 11="SNS" 12="ILIM" 13="GND" 14="NC_2" 15="VOUT4_1" 16="VOUT4_2" 17="VOUT3_1" 18="VOUT3_2" 19="NC_3" 20="VBB_1" 21="VBB_2" 22="VBB_3" 23="VBB_4" 24="NC_4" 25="VOUT2_1" 26="VOUT2_2" 27="VOUT1_1" 28="VOUT1_2" 29="EP"
+*MXP 29
+*DFN TPS4HC120BQDGQRQ1
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS4HC120BQDGQRQ1)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tps4hc120-q1.pdf)
+~!Height (1.1mm)
+~!3D_Model (TPS4HC120BQDGQRQ1)
+TPS4HC120BQDGQRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 

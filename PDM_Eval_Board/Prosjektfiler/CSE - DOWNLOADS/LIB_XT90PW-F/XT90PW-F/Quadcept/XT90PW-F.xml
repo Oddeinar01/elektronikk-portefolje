@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/13514040/1824864/2.50/4/3/Connector/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c256.5_h171" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="67.322834645668">
+    <padshape layer="TOP" shape="round" width="100.9842519685" height="100.9842519685" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="108.85826771653" height="108.85826771653" />
+    <padshape layer="INNER" shape="round" width="100.9842519685" height="100.9842519685" />
+    <padshape layer="BOTTOM" shape="round" width="100.9842519685" height="100.9842519685" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="108.85826771653" height="108.85826771653" />
+  </padstyle>
+  <padstyle name="s585_h390" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="153.54330708661">
+    <padshape layer="TOP" shape="square" width="230.31496062992" height="230.31496062992" />
+    <padshape layer="TOP_SOLDER_MASK" shape="square" width="238.18897637795" height="238.18897637795" />
+    <padshape layer="INNER" shape="square" width="230.31496062992" height="230.31496062992" />
+    <padshape layer="BOTTOM" shape="square" width="230.31496062992" height="230.31496062992" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="square" width="238.18897637795" height="238.18897637795" />
+  </padstyle>
+  <padstyle name="c585_h390" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="153.54330708661">
+    <padshape layer="TOP" shape="round" width="230.31496062992" height="230.31496062992" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="238.18897637795" height="238.18897637795" />
+    <padshape layer="INNER" shape="round" width="230.31496062992" height="230.31496062992" />
+    <padshape layer="BOTTOM" shape="round" width="230.31496062992" height="230.31496062992" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="238.18897637795" height="238.18897637795" />
+  </padstyle>
+  <footprint name="XT90PWF" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="s585_h390" originx="0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c585_h390" originx="-429.13385826771" originy="0" rotation="90" />
+    <pcbpin number="3" name="3" style="c256.5_h171" originx="157.48031496063" originy="-350.3937007874" rotation="90" />
+    <pcbpin number="4" name="4" style="c256.5_h171" originx="-586.61417322834" originy="-350.3937007874" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="194.88188976378" originy="106.29921259842" endx="-624.05511811023" endy="106.29921259842" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-624.05511811023" originy="106.29921259842" endx="-624.05511811023" endy="-460.62992125984" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-624.05511811023" originy="-460.62992125984" endx="194.88188976378" endy="-460.62992125984" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="194.88188976378" originy="-460.62992125984" endx="194.88188976378" endy="106.29921259842" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="247.32283464567" originy="154.52755905512" endx="-676.49606299212" endy="154.52755905512" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-676.49606299212" originy="154.52755905512" endx="-676.49606299212" endy="-933.07086614172" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-676.49606299212" originy="-933.07086614172" endx="247.32283464567" endy="-933.07086614172" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="247.32283464567" originy="-933.07086614172" endx="247.32283464567" endy="154.52755905512" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="139.76377952756" originy="-460.62992125984" endx="139.76377952756" endy="-893.70078740156" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="139.76377952756" originy="-893.70078740156" endx="-568.89763779527" endy="-893.70078740156" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-568.89763779527" originy="-893.70078740156" endx="-568.89763779527" endy="-460.62992125984" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="133.85826771653" endx="0" endy="133.85826771653" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="1.6391087961985E-15" originy="135.82677165354" startangle="-90.0" sweepangle="180.0" radius="1.9685039370079" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="137.79527559055" endx="0" endy="137.79527559055" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="1.6391087961985E-15" originy="135.82677165354" startangle="90.0" sweepangle="180.0" radius="1.9685039370079" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="137.79527559055" originy="106.29921259842" endx="194.88188976378" endy="106.29921259842" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="194.88188976378" originy="106.29921259842" endx="194.88188976378" endy="-295.27559055118" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="194.88188976378" originy="-413.38582677165" endx="194.88188976378" endy="-460.62992125984" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="194.88188976378" originy="-460.62992125984" endx="-624.05511811023" endy="-460.62992125984" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-624.05511811023" originy="-460.62992125984" endx="-624.05511811023" endy="-413.38582677165" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-568.89763779527" originy="-460.62992125984" endx="-568.89763779527" endy="-893.70078740156" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-568.89763779527" originy="-893.70078740156" endx="139.76377952756" endy="-893.70078740156" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="139.76377952756" originy="-893.70078740156" endx="139.76377952756" endy="-460.62992125984" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-137.79527559055" originy="106.29921259842" endx="-334.64566929133" endy="106.29921259842" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-511.81102362204" originy="106.29921259842" endx="-624.05511811023" endy="106.29921259842" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-624.05511811023" originy="106.29921259842" endx="-624.05511811023" endy="-295.27559055118" width="7.8740157480314" />
+  </footprint>
+  <symbol name="XT90PW-F" originx="0" originy="0">
+    <line originx="200" originy="100" endx="700" endy="100" width="0" />
+    <line originx="700" originy="-200" endx="700" endy="100" width="0" />
+    <line originx="700" originy="-200" endx="200" endy="-200" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-200" width="0" />
+    <sympin number="1" originx="700" originy="-100" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="670" originy="-100" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="+" />
+      <text name="pindes" originx="760" originy="-80" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="700" originy="0" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="670" originy="0" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="-" />
+      <text name="pindes" originx="760" originy="20" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="MH1" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <sympin number="4" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="MH2" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="4" />
+    </sympin>
+  </symbol>
+  <component name="XT90PW-F" designatorprefix="J" height="405.51181102362" footprint="XT90PWF">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="+" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="-" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="MH1" />
+    <comppin designator="4" sympin="4" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="MH2" />
+    <attached_symbol gate="1" name="XT90PW-F" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <pinmap designator="4" footprintpin="4" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.tme.eu/Document/7357a049cc8e5ea73e34d2124a313a81/XT90PW.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Connector: DC supply; socket; female; XT90; 40A; 500V; PIN: 2; THT" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Amass" />
+    <text name="Manufacturer_Part_Number" originx="750" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="XT90PW-F" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+  </component>
+</quadcept_library>
